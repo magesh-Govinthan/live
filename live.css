@@ -45,6 +45,7 @@ min-height: 100vh;
     align-items: center;
     justify-content: space-between;
     background-color: grey;
+    color: white;
 }
 .about-me img{
     height: 250px;
@@ -87,6 +88,7 @@ background:grey;
     height: 400px;
     width: 350px;
      box-shadow:2px 2px 5px rgba(0,0,0,0.3);
+     object-fit: cover;
 }
 
 .project-sec .project-card img{
