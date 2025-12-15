@@ -85,15 +85,15 @@ background:grey;
     border-radius: 5px;
    justify-content: space-around;
     align-items: center;
-    height: 400px;
-    width: 350px;
+    height: 350px;
+    width: 300px;
      box-shadow:2px 2px 5px rgba(0,0,0,0.3);
      object-fit: cover;
 }
 
 .project-sec .project-card img{
  height: 230px;
- width: 350px;
+ width: 300px;
  object-fit: cover;
 }
 .project-sec .project-card .project-button a{
